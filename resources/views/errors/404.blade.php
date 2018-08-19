@@ -4,7 +4,7 @@
 @section('content')
 
 
-    <h1>Edit Post</h1>
+    <h1 class="text-center">Opps no page Available</h1>
 
 
 @stop
